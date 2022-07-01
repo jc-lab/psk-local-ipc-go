@@ -1,4 +1,4 @@
-module github.com/jc-lab/psk-local-ipc
+module github.com/jc-lab/psk-local-ipc-go
 
 go 1.17
 

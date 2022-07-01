@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/jc-lab/go-tls-psk"
-	ipc "github.com/jc-lab/psk-local-ipc/go"
+	ipc "github.com/jc-lab/psk-local-ipc-go"
 	"log"
 	"time"
 )
